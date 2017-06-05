@@ -1,0 +1,30 @@
+{
+  "name": "client-tests",
+  "version": "1.0.0",
+  "description": "e2e tests for BackBox",
+  "main": "assets/images.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-protractor": "^4.1.0",
+    "gulp-rename": "^1.2.2"
+  },
+  "devDependencies": {
+    "firefox-profile": "^1.0.0",
+    "gulp-replace": "^0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e2e",
+    "backbox",
+    "BackBox",
+    "Backbox",
+    "tests",
+    "testing",
+    "client"
+  ],
+  "author": "Yonatan Alon",
+  "license": "ISC"
+}
